@@ -1,2 +1,2 @@
 # MiniProjects
-Small projects are collected here
+Small Python projects are collected here
